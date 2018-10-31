@@ -1,0 +1,44 @@
+body {
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#img1 {
+    width: 180px;
+    height: auto;
+}
+
+#img2 {
+    width: 120px;
+    height: auto;
+}
+
+#carouselExampleControls{
+    border-style: solid;
+    border-color: #730809;
+    border-width: thick;
+    border-radius: 10px;
+}
+
+.modal {
+    width: 1500px;
+    height: 1500px;
+}
+
+#result {
+    font-size: small;
+    color: white;
+}
+
+pre {
+    color: white;
+    font-family: 'Eczar', serif;
+    font-size: large;
+}
+
+table {
+    color: white;
+    font-family: 'Eczar', serif;
+    font-size: large;
+}
